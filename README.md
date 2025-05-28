@@ -1,5 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=wulongshe" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact" height="200"  />
+|<img src="https://github-readme-stats.vercel.app/api?username=wulongshe" height="200" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact" height="200"  />|
+| :--- | ---: |
 
 <!--
 **wulongshe/wulongshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=wulongshe" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact" height="200"  />
 </div>

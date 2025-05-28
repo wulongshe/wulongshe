@@ -1,9 +1,7 @@
-## Hi there 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wulongshe)
-
-## 🚀 Tech stack
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=wulongshe" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact" height="200"  />
+</div>
 
 <!--
 **wulongshe/wulongshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

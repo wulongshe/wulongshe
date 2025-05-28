@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wulongshe" height="205" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact" height="205"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wulongshe" height="204" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulongshe&layout=compact" height="204"  />
 </div>
 
 <!--
